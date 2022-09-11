@@ -1,4 +1,4 @@
-# Project 1
+# LAMP STACK IMPLEMENTATION
 
 ## Prerequisites - Connected to EC2 instance
 
